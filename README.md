@@ -1,4 +1,4 @@
-# Word processor (`kswx`) 🇰🇭🦀
+# Khmer Word processor (`kswx`) 🇰🇭🦀
 
 # Khmer Smart Writer (`kswx`) 🇰🇭🦀
 
