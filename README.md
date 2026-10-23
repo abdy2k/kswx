@@ -37,9 +37,11 @@ A modern, memory-safe, and portable cross-platform word processor for the Khmer 
 ## 🛠️ User Guide
 
 ### Working with Tables
-1. Navigate to the **Insert** menu at the top toolbar.
-2. Select **Insert Row**.
-3. *Constraint:* Please verify that any dimensions or row counts typed into the prompt box are **valid numbers** to prevent execution errors.
+1. Navigate to the **Calc Spreadsheet...** menu at the top toolbar.
+2. Navigate to the **Create...** menu at the top toolbar.
+5. Navigate to the **Insert** menu at the top toolbar.
+5. Select **Insert Row**.
+5. *Constraint:* Please verify that any dimensions or row counts typed into the prompt box are **valid numbers** to prevent execution errors.
 
 ### Handling Images
 1. Use the image attachment dialog to import images (`.png`, `.jpg`, or `.jpeg`).
@@ -49,8 +51,14 @@ A modern, memory-safe, and portable cross-platform word processor for the Khmer 
 To ensure that character stacking, subscript vowels, and diacritics map exactly to your keys without triggering unintended system behaviors, **system/application keyboard shortcuts are completely disabled when Khmer input mode is active**. Switch back to default Latin input mode to resume standard interface hotkeys.
 You may display on screen static keyboard layour to help you locate Khmer letter and key combination.
 
-
+### Understanding Tools 
+1. Language checked for Khmer/English
+2. Khmer
+3. English
+4. Keyboard Layout
 ---
+<img width="748" height="510" alt="image" src="https://github.com/user-attachments/assets/45a66cc6-5409-4b90-be8f-c2fec588e0df" />
+
 
 ## 🧪 Beta Testing Status
 
