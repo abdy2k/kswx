@@ -7,15 +7,7 @@ A modern, memory-safe, and portable cross-platform word processor for the Khmer 
 
 # Khmer Smart Writer (`kswx`) 🇰🇭🦀
 1. Download kswx.exe for Windows to any folder and double click to execute it.
-2. Download kswx for Linux to /opt folder then open terminal and run the following commands
 
-1. sudo chmod +x /opt/kswx
-2. sudo /opt/kswx
-
-if any error 
-1. sudo chown $USER:$USER /opt/kswx
-2. chmod +x /opt/kswx
-3. /opt/kswx
 
 ---
 
