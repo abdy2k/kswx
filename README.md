@@ -1,10 +1,16 @@
 # Khmer Word processor (`kswx`) 🇰🇭🦀
 
-# Khmer Smart Writer (`kswx`) 🇰🇭🦀
-
 A modern, memory-safe, and portable cross-platform word processor for the Khmer language, rewritten from the ground up in Rust. 
 
 `kswx` is the official modern port of the historic **Khmer Smart Writer**, originally written in C++ for Windows 3.1 and Windows 95, developed by **Cambodian Software Development - Abdolgony Computer Services** and first released in 1992. This modern incarnation brings absolute crash resilience, modern text rendering, and native file compatibility to contemporary operating systems.
+
+
+# Khmer Smart Writer (`kswx`) 🇰🇭🦀
+1. Download kswx.exe for Windows to any folder and double click to execute it.
+2. Download kswx for Linux to /opt folder then open terminal and run the following commands
+
+sudo chmod +x /opt/kswx
+sudo /opt/kswx
 
 ---
 
