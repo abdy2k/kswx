@@ -55,7 +55,7 @@ You may display on screen static keyboard layour to help you locate Khmer letter
 1. Language checked for Khmer/English
 2. Khmer
 3. English
-4. Keyboard Layout
+4. Keyboard Layout (OnScreen Keyboard On/Off) 
 ---
 <img width="748" height="510" alt="image" src="https://github.com/user-attachments/assets/45a66cc6-5409-4b90-be8f-c2fec588e0df" />
 
