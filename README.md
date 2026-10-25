@@ -14,8 +14,9 @@ A modern, memory-safe, and portable cross-platform word processor for the Khmer 
 3. /opt/kswx
 
 If font not working properly, open terminal and run the following command
-sudo apt update
-sudo apt install -y fonts-khmeros fonts-noto-core
+
+1. sudo apt update
+2. sudo apt install -y fonts-khmeros fonts-noto-core
 
 ---
 
